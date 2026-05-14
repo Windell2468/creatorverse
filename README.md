@@ -2,7 +2,7 @@
 
 Submitted by: **👉🏿 Jerry Rogers Jr.**
 
-About this web app: **👉🏿 app description here**
+About this web app: **👉🏿 Creatorverse is a website that lists YouTubers and TikTok creators. Users can add their favorite creators with a name, URL, description, and image URL. Users can also view, edit, and delete creators.  **
 
 Time spent: **👉🏿 8** hours
 
@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='./Prework web 103.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
@@ -46,7 +46,7 @@ GIF created with ...  👉🏿 GIF tool here
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+The challenge was setting up React Router with Link and BrowserRouter, and it took some time to figure out how to properly set up BrowserRouter.
 
 ## License
 
